@@ -1,0 +1,7 @@
+﻿<meta>
+
+    <info name="Cylinder2DColShape" description="Example resource for custom colshapes" author="SyBozz" version="1.0" type="script" shadowcopy="false" async="true" />
+
+    <script src="release/Cylinder2DColShape.dll" type="server" lang="compiled" />
+    
+</meta>
